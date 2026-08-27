@@ -102,9 +102,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b44d442886077ec1395fb24d429c77560c60c862",
     "commitName": "Refactorizamos el codigo para que cumpla las reglas de FizzBuzz",
     "commitTimestamp": 1787838481998,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 3",
+    "commitTimestamp": 1787838774126,
+    "testId": 2
   }
 ]
