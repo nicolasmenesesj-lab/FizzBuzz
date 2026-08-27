@@ -120,9 +120,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9fc02cbf52420917ce0e9e9e3c50a85934de3c51",
     "commitName": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 3 y 5 cumpliendo con todas las reglas proveidas",
     "commitTimestamp": 1787838865453,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:Se actualizo el html de la pagina web para cumplir con la tarea de FizzBuzz",
+    "commitTimestamp": 1787839183292,
+    "testId": 5
   }
 ]
