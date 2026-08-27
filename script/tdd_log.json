@@ -56,9 +56,55 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "119c2dc60873ef8dfb6866138ead8e581e905e13",
     "commitName": "primer commit",
     "commitTimestamp": 1787837843119,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1787838084142,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1787838139096,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787838166513,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 2,
+    "numTotalTests": 6,
+    "timestamp": 1787838326067,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838341395,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Refactorizamos el codigo para que cumpla las reglas de FizzBuzz",
+    "commitTimestamp": 1787838481998,
+    "testId": 1
   }
 ]

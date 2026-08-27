@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "119c2dc60873ef8dfb6866138ead8e581e905e13",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-08-27T13:37:21.000Z",
       "message": "primer commit",
-      "url": "/commit/HEAD"
+      "url": "/commit/119c2dc60873ef8dfb6866138ead8e581e905e13"
     },
     "stats": {
       "total": 29978,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-08-27T13:48:01.000Z",
+      "message": "Refactorizamos el codigo para que cumpla las reglas de FizzBuzz",
+      "url": "https://nicolasmenesesj-lab@github.com/nicolasmenesesj-lab/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 35,
+      "additions": 31,
+      "deletions": 4,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
