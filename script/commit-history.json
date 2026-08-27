@@ -57,12 +57,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "cdb244d5cd7e46308461365ff50c4af01835311c",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-08-27T13:53:41.000Z",
       "message": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 5",
-      "url": "https://nicolasmenesesj-lab@github.com/nicolasmenesesj-lab/FizzBuzz/commit/HEAD"
+      "url": "https://nicolasmenesesj-lab@github.com/nicolasmenesesj-lab/FizzBuzz/commit/cdb244d5cd7e46308461365ff50c4af01835311c"
     },
     "stats": {
       "total": 11,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-08-27T13:54:24.000Z",
+      "message": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 3 y 5 cumpliendo con todas las reglas proveidas",
+      "url": "https://nicolasmenesesj-lab@github.com/nicolasmenesesj-lab/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
