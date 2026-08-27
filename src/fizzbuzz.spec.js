@@ -13,5 +13,9 @@ describe("FizzBuzz", () => {
     expect(fizzbuzz(3)).toEqual("Fizz");   
   });
 
+  it("deberia devolver Buzz", () => {
+    expect(fizzbuzz(5)).toEqual("Buzz");   
+  });
+
 });
 

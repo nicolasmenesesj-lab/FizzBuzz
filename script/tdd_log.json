@@ -108,9 +108,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "18986b9d63979e168bb299f7010a8cdd10f0be1b",
     "commitName": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 3",
     "commitTimestamp": 1787838774126,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:Se cumplio la tarea y las pruebas para numero multiplos de 5",
+    "commitTimestamp": 1787838822844,
+    "testId": 3
   }
 ]
